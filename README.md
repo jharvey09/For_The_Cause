@@ -1,4 +1,9 @@
 ## For The Cause
+
+![pexels-worldspectrum-844124](https://user-images.githubusercontent.com/80294571/140631407-687a1efd-5b1b-4de6-ad5e-2a9e89f99107.jpg)
+*Photo by Worldspectrum from Pexels*
+
+### Outline
 Your company has decided to crowdsale their PupperCoin token in order to help fund the network development. This network will be used to track the dog breeding activity across the globe in a decentralized way, and allow humans to track the genetic trail of their pets. You have already worked with the necessary legal bodies and have the green light on creating a crowdsale open to the public. However, you are required to enable refunds if the crowdsale is successful and the goal is met, and you are only allowed to raise a maximum of 300 Ether. The crowdsale will run for 24 weeks.
 
 You will need to create an ERC20 token that will be minted through a Crowdsale contract that you can leverage from the OpenZeppelin Solidity library.
